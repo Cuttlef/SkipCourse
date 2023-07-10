@@ -98,11 +98,11 @@ if __name__ == '__main__':
     print('仅供学习交流,请勿贩卖,该程序免费,如有BUG请反馈-----By zzJ  https://lzai.fun')
     print('重要的事情说三遍,请仔细阅读')
     print(
-        '重要提示: 请不要手动点击最小化窗口,可以正常使用电脑,做其他事情,小技巧(Windows 10使用win + tab,新建一个桌面运行该程序即可)')
+        '重要提示: 请不要手动点击弹出的浏览器的最小化窗口,可以正常使用电脑,做其他事情,小技巧(Windows 10使用win + tab,新建一个桌面运行该程序即可)')
     print(
-        '重要提示: 请不要手动点击最小化窗口,可以正常使用电脑,做其他事情,小技巧(Windows 10使用win + tab,新建一个桌面运行该程序即可)')
+        '重要提示: 请不要手动点击弹出的浏览器的最小化窗口,可以正常使用电脑,做其他事情,小技巧(Windows 10使用win + tab,新建一个桌面运行该程序即可)')
     print(
-        '重要提示: 请不要手动点击最小化窗口,可以正常使用电脑,做其他事情,小技巧(Windows 10使用win + tab,新建一个桌面运行该程序即可)')
+        '重要提示: 请不要手动点击弹出的浏览器的最小化窗口,可以正常使用电脑,做其他事情,小技巧(Windows 10使用win + tab,新建一个桌面运行该程序即可)')
     InputPath = input('请输入chromedriver的路径: ')
     path = InputPath + '\\chromedriver.exe'
     options = webdriver.ChromeOptions()
