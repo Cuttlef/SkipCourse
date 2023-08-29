@@ -28,10 +28,15 @@
 ```
 
 
-
 | mainUrl      | account  | password | status                 |
 | ------------ | -------- | -------- | ---------------------- |
-| 填写登录地址 | 填写账号 | 填写密码 | 1 表示正常刷,2表示秒刷 |
+| 填写登录地址 | 填写账号 | 填写密码 | 1 表示正常刷,2表示秒刷 (3表示真正的秒刷,非急务用)|
+
+打赏码
+
+![](https://jsd.cdn.zzko.cn/gh/Cuttlef/picx-images-hosting@master/20230620/money.2f46yx4qsog0.webp)
+![](https://jsd.cdn.zzko.cn/gh/Cuttlef/picx-images-hosting@master/20230701/Snipaste_2023-07-01_18-47-02.77negaynnw80.webp)
+
 
 
 
